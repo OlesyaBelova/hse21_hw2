@@ -1,5 +1,5 @@
 # hse21_hw2  
-Ссылка на первую часть задания: https://colab.research.google.com/drive/1AHiN10fVOhLh1L7fLDV31bSQwy-Dqmd-#scrollTo=rD5_TmJYCOdU  
+Ссылка на первую часть задания: https://colab.research.google.com/drive/1AHiN10fVOhLh1L7fLDV31bSQwy-Dqmd-?usp=sharing  
 Статистика по первой части:  
 - Всего белков найдено: 3612  
 - С родственной бактерией совпало: 3300
